@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Check out my projects: [github.com/seyhanvankhan](https://github.com/seyhanvankhan)
+## Check out my projects at [github.com/seyhanvankhan](https://github.com/seyhanvankhan)
 <!--
 **seyhankhan/seyhankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
