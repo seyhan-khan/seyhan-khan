@@ -1,6 +1,6 @@
-## 🔗  Check out my projects - [github.com/seyhanvankhan](https://github.com/seyhanvankhan)
+## 🔗  Check out the projects - [@seyhankhan](https://github.com/seyhankhan)
 <!--
-**seyhankhan/seyhankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seyhan-khan/seyhan-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
